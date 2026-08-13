@@ -1,0 +1,1 @@
+# Ej 7 Escribir una funcion que indique cuantas vocales tiene una palabra

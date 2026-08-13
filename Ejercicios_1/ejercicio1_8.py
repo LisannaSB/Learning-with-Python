@@ -1,0 +1,1 @@
+# Ej 8 Escribir una aplicacion que reciba una cantidad infinita de numeros hasta decir basta, luego que devuelva la suma de los numeros ingresados

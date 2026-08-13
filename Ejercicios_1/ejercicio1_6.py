@@ -1,0 +1,1 @@
+# Ej 6 Escribir una funcion que indique si un numero es par o impar

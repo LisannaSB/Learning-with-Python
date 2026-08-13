@@ -36,6 +36,7 @@ lista.reverse() # Invierte el orden de los elementos de la lista
 # lista.sort() # No funcionara porque la lista contiene elementos de diferentes tipos (str y int)
 lista.reverse()
 lista.pop()
+# lista.remove()
 lista.append('Chanchito triste')
 lista.sort() # Si funciona porque la lista contiene elementos del mismo tipo (str)
 print(lista)
