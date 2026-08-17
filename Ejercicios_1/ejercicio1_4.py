@@ -2,7 +2,7 @@
 import math
 
 def volumenEsfera(r):
-    volumen = 4/3 * math.pi * math.pow(r,3)
+    volumen = 4/3 * math.pi * r ** 3
     print('El volumen de la esfera es: ', volumen)
 
 radio = input('Introduce el radio de la esfera: ')

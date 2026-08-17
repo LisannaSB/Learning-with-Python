@@ -11,7 +11,7 @@
 # print(mod.mascotas)
 # mod.saludo('Nicolas')
 
-from modulos import saludo, mascotas
+from python.modulos import saludo, mascotas
 
 
 saludo('Nicolas')
